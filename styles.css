@@ -3,20 +3,94 @@
     padding: 0px;
 
 }
-nav{
+
+
+/*body{
+    background: linear-gradient(90deg, rgb(242, 247, 243) 0%, rgb(236, 238, 240) 100%);
+ }*/
+
+/* Navbar Left */
+.nav-main ul {
+    display: flex;
+  }
+  
+  .nav-main ul li {
+    padding: 10px;
+  }
+  
+  .nav-main ul li a {
+    padding: 2px;
+  }
+  
+  .nav-main ul li a:hover {
+    border-bottom: 2px solid #fff;
     
-    height: 100px;
-    width: 100%;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    z-index: 1;
+  }
+  
+  .nav-main ul.nav-menu {
     
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  hr {
+    margin: 10px 0;
+  }
+
+p{
+    color: rgb(30, 30, 68);
 }
-ul.horizontal li{
-display:block;
-float:left;
-padding:0 10px;
+
+/* Navigation */
+.nav-main {
+  font-size: 17px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  padding: 20px 0;
+}
+
+
+.nav-brand {
+  width: 50px;
+}
+
+/* Navbar Left */
+.nav-main ul {
+  display: flex;
+}
+
+.nav-main ul li {
+  padding: 10px;
+}
+
+.nav-main ul li a {
+  padding: 2px;
+}
+
+.nav-main ul li a:hover {
+  border-bottom: 2px solid rgb(175, 33, 33);
+}
+
+.nav-main ul.nav-menu {
+  flex: 1;
+  margin-left: 20px;
+    border-bottom: 2px solid rgb(175, 33, 33);
+}
+
+hr {
+  margin: 10px 0;
+}
+
+/* Responsive Button */
+.menu-btn {
+  cursor: pointer;
+  position: absolute;
+  top: 15px;
+  right: 30px;
+  z-index: 2;
+  display: none;
 }
 
 
@@ -34,9 +108,14 @@ header{
     width: 100%;
     height: 150px;
     background: rgb(150, 212, 158);
-    background: linear-gradient(90deg, rgb(244, 250, 245) 0%, rgb(241, 105, 168) 100%);
+    background: linear-gradient(90deg, rgb(119, 201, 133) 0%, rgb(73, 56, 64) 100%);
     
 }
-body{
-    background: #ecd9d9cc;
+menu-btn {
+  cursor: pointer;
+  position: absolute;
+  top: 15px;
+  right: 30px;
+  z-index: 2;
+  display: none;
 }
