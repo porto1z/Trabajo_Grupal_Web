@@ -1,0 +1,27 @@
+Proyecto de pagia web_Joyas_Raquel
+
+Este proyecto contiene un directorio dde imagenes, un directorio de paginas en el cual contine tres 
+archivos de  html.
+
+1- Inicio
+2- Nosotros 
+3- Contacios 
+
+Tan bien el directorio index, en que que  contiene el contenido principal de la pagina.
+
+4- Index
+
+Un directorio Css, en en qu ese  han realisados vario estilos y nos pocos, en el mis contectos de las
+etiquetas del directorio html.
+
+5- gitignore.
+
+Un directorio de gitignore, este diectorio se encuentran varios archivos y directorios, que no se van a 
+mostrar o que no se van a subir al repositorio ya que han sido ignorados. 
+
+6 y 7 code y archivo_2.
+
+Dos directorios de text. En en el directorio code contiene codigo css. Para mantencio y modificacion 
+de la pagina. 
+
+hasta qui la informacion de la pagina web, despues que se continue con el proyecto se seguira informando, sobre los avances.
